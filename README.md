@@ -14,6 +14,10 @@
 
 </div>
 
+<a href="YOUR_RESUME_LINK">
+  <img src="https://img.shields.io/badge/📄%20Resume-00C4B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+</a>
+
 ---
 
 ## 🧠 About Me
