@@ -14,13 +14,21 @@
 
 </div>
 
-<a href="YOUR_RESUME_LINK">
-  <img src="https://img.shields.io/badge/📄%20Resume-00C4B4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+<div align="center">
+
+<a href="https://docs.google.com/document/d/1Z9goMv3JVm0jI4qYNQYKZytXJq7wE_0O/edit?usp=sharing&ouid=113730683417802190435&rtpof=true&sd=true">
+  <img src="https://img.icons8.com/color/96/resume.png" width="40" alt="Resume"/>
 </a>
+
+<br>
+
+<b> View ☝️ My Resume</b>
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me :-
 
 ✨ I’m **Parag Taide**, a **Data Analyst** with **3.6+ years of experience**.
 
@@ -54,8 +62,9 @@ Power BI • Excel • Tableau
 
 <td align="center"><b>Tools & Tech</b><br><br>
 <img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png"/>
-<img src="https://img.icons8.com/color/48/settings.png"/><br>
+<img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/48/powerautomate-icon.png"/>
+<img src="https://img.icons8.com/color/48/settings.png"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="48"/><br>
 Linux • Power Automate • ETL • DWH
 </td>
 </tr>
