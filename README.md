@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<a href="https://docs.google.com/document/d/1Z9goMv3JVm0jI4qYNQYKZytXJq7wE_0O/edit?usp=sharing&ouid=113730683417802190435&rtpof=true&sd=true">
+<a href="https://drive.google.com/file/d/19iNIQWeGCAYzeLEJ6sEgyInpAD6OvC_n/view?usp=sharing">
   <img src="https://img.icons8.com/color/96/resume.png" width="40" alt="Resume"/>
 </a>
 
